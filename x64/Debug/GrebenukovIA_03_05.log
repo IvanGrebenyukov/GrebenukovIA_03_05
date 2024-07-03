@@ -1,0 +1,3 @@
+﻿  GrebenukovIA_03_05.cpp
+C:\Grebenukov\GrebenukovIA_03_05\GrebenukovIA_03_05.cpp(83,55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  GrebenukovIA_03_05.vcxproj -> C:\Grebenukov\GrebenukovIA_03_05\x64\Debug\GrebenukovIA_03_05.exe
